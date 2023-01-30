@@ -17,10 +17,6 @@ nav a {
 
 }
 
-a {
-    justify-content: baseline;
-}
-
 #banner {
     width: 100%;
     height: 450px;

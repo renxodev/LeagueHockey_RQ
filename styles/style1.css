@@ -1,1 +1,42 @@
-..
+ h1 {
+     position: absolute;
+     font-size: 300%;
+     font-style: italic;
+     margin-left: 20px;
+     margin-top: 10px;
+ }
+
+ nav {
+     display: block;
+     position: absolute;
+ }
+
+ nav a {
+     display: block;
+     margin: 20px;
+ }
+
+ #banner {
+     width: 100%;
+     height: 450px;
+     margin-bottom: -25px;
+     opacity: 50%;
+ }
+
+ .logo {
+     top: 380px;
+     width: 200px;
+     right: 100px;
+     position: absolute;
+ }
+
+ h2 {
+     background-color: black;
+     color: white;
+     text-align: center;
+
+ }
+
+ .texto {
+     margin-left: 500px;
+ }
